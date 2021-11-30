@@ -30,3 +30,82 @@ sudo docker run hello-world
 #Iniciar  Daemon
 sudo systemctl start docker
 sudo systemctl enable docker
+
+
+
+Comandos Linux Básicos:
+
+pwd
+cd
+ls
+cat
+cp
+mv
+mkdir
+rmdir
+rm
+touch
+locate
+find
+grep
+sudo
+df
+du
+head
+tail
+diff
+tar
+kill
+ping
+wget
+uname
+top
+echo
+zip / unzip
+hostname
+useradd/ userdel
+
+// Administración de archivos y carpetas
+mv
+rm
+rm -R: Recursive
+cp
+scp 
+
+// Pagina Web
+curl
+git clone
+wget
+
+//Archivos
+wc robots.txt
+head
+tail
+less
+more
+
+//Busqueda
+find
+locate
+updatedb
+grep
+
+//Networking
+ping
+nmap
+nslookup
+ip addr
+netstat
+
+//Administrar Disco Duro
+df -h
+
+
+history
+shutdown now
+reboot
+tar unrar
+tar -tvf myarchive.tar
+dd
+ffmpeg
+fdupes
