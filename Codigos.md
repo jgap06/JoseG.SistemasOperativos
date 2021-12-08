@@ -1,4 +1,4 @@
-Comandos Generales Linux Sistemas Operativos
+# Comandos Generales Linux Sistemas Operativos
 
 
 # COMANDOS BASICOS
