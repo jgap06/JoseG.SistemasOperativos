@@ -1,7 +1,7 @@
 Comandos Generales Linux Sistemas Operativos
 
 
-*COMANDOS BASICOS*
+# COMANDOS BASICOS
 
  (apt install)   Este comando por medio de la digitación de mencionado comando Instala un paquete deseado en concreto*
 
@@ -19,7 +19,7 @@ Comandos Generales Linux Sistemas Operativos
 
 
 
-*COMANDOS DE CARPETAS Y ARCHIVOS*
+# COMANDOS DE ARCHIVOS
  (mv)   Este comando se encarga de mover distintos archivos en la terminal
 
  (rm)   Este se encarga de borrar y eliminar archivos concretos
@@ -80,7 +80,7 @@ Comandos Generales Linux Sistemas Operativos
 
 
 
-*SISTEMA*
+# SISTEMA
 
  (history) / (grep curl)   Enseña en pantallael historial de comandos específicos
 
@@ -105,7 +105,7 @@ Comandos Generales Linux Sistemas Operativos
  (whoami)   Este comando muestra el usuario actual del dominio 
 
 
-*DOCKER*
+# DOCKER
  (docker history)   Este comando se encarga en enseñar el historial de una imagen
 
  (docker images)   Este comando se encarga en enseñar imagenes
