@@ -1,3 +1,6 @@
+Comandos Generales Linux Sistemas Operativos
+
+
 *COMANDOS BASICOS*
 
  (apt install)   Este comando por medio de la digitación de mencionado comando Instala un paquete deseado en concreto*
@@ -221,32 +224,32 @@ zip / unzip
 hostname
 useradd/ userdel
 
-// Administración de archivos y carpetas
+#  Administración de archivos y carpetas
 mv
 rm
 rm -R: Recursive
 cp
 scp 
 
-// Pagina Web
+# Pagina Web
 curl
 git clone
 wget
 
-//Archivos
+# Archivos
 wc robots.txt
 head
 tail
 less
 more
 
-//Busqueda
+# Busqueda
 find
 locate
 updatedb
 grep
 
-//Networking
+# Networking
 ping
 nmap
 nslookup
